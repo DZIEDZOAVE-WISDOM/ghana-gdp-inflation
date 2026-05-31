@@ -69,7 +69,7 @@ def plot(df: pd.DataFrame) -> None:
     notes = [
         (1977, "1977: inflation 116%", ax2, (-66, 14)),
         (1983, "1983: 123% drought", ax2, (12, 10)),
-        (1983, "1983: ERP begins", ax1, (10, 6)),
+        (1984, "1983: ERP begins", ax1, (12, 0)),
         (1995, "1995: inflation 59%", ax2, (14, 6)),
         (2011, "2011: GDP +14% (oil boom)", ax1, (-150, 2)),
         (2023, "2022-23 debt crisis", ax2, (-70, 30)),
